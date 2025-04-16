@@ -1,5 +1,5 @@
 # 💫 About Me:
-Turning coffee into code since 2022<br>🌱 I’m currently learning Machine Learning and AI<br>💬 Ask me about, next destination ☕ 😉<br>⚡ in relationship with my Keyboard 😎 👀
+Turning coffee into code since 2022<br>🌱 I’m currently learning Machine Learning and AI<br>💬 Ask me about, next destination ☕⛰️ 😉<br>⚡ in relationship with my Keyboard 😎 👀
 
 
 
