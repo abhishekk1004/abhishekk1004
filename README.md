@@ -1,5 +1,5 @@
 # 💫 About Me:
-Turning coffee into code since 2022 <br>🌱 I’m currently learning Machine Learning and AI<br>💬 Ask me about, next destination ☕😉<br>⚡ in relationship with my Keyboard 😎👀
+Turning coffee into code since 2022 <br>🌱 I’m currently learning Machine Learning and AI<br>💬 Ask me about, next destination ☕😉<br>⚡ in relationship with my Keyboard 😎 👀
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8e7196f4-832c-4090-a642-3c49339985d6" />
 
