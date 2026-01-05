@@ -15,7 +15,7 @@ Turning coffee into code since 2023<br>🌱 I’m currently learning Machine Lea
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekk1004&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ For all of us(LOKI)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
