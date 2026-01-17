@@ -2,6 +2,7 @@
 Turning coffee into code since 2023<br>🌱 I’m currently learning Machine Learning and AI<br>💬 Ask me about, next destination ☕😉<br>⚡ in relationship with my Keyboard 😎👀
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/https://www.instagram.com/_abhi_shek_1004/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:/www.linkedin.com/in/https:/www.linkedin.com/in/abhishekkushwaha-py/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/abhishekk_1004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekkushwaha.np@gmail.com) 
 
