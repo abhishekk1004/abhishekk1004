@@ -1,5 +1,5 @@
 # 💫 About Me:
-Turning coffee into code since 2023<br>💬 Ask me about, next destination ☕ l😉<br>⚡ in relationship with my Keyboard 😎 👀
+Turning coffee into code since 2023<br>💬 Ask me about, next destination ☕😉<br>⚡ in relationship with my Keyboard 😎 👀
 
 
 ## 🌐 Socials:
